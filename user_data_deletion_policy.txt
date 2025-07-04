@@ -1,0 +1,22 @@
+# User Data Deletion Instructions
+_Last updated: [insert date]_
+
+Under Meta Platform rules and GDPR, you can ask us to delete any information our app has obtained from your Facebook or Instagram account.
+
+## How to request deletion
+1. **Via Facebook / Instagram settings**  
+   * Go to **Settings → Apps and Websites**, find this app, and click **Remove**.  
+   * Choose “**Delete posts, videos or events**” (if shown) and confirm.  
+   * Meta will send our app a signed request; we will erase your data automatically within **30 days** and send confirmation.
+
+2. **Manual request**  
+   Send an email to **privacy@[your‑domain].com** with your  
+   *App‑scoped User ID* or the email you use on Facebook/Instagram.  
+   We will delete your data within **30 days** and confirm by email.
+
+## What data we hold
+We keep **only transient access‑tokens and basic profile IDs** needed to perform actions you request inside the app.  
+No data is shared with third parties.
+
+## Contact
+Questions? Email **privacy@[your‑domain].com**  
